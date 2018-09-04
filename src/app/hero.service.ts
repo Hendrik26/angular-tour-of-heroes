@@ -10,7 +10,7 @@ export class HeroService {
 
   /* getHeroes(): Hero[] {
     return HEROES;
-   // alter Muell gggghhhhh
+   // alter Muell gggghhhhhiiiiiiiiiii
   } */
 
   getHeroes(): Observable<Hero[]> {
